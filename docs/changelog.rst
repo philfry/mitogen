@@ -17,6 +17,10 @@ Release Notes
 To avail of fixes in an unreleased version, please download a ZIP file
 `directly from GitHub <https://github.com/mitogen-hq/mitogen/>`_.
 
+unreleased
+--------------------
+* :gh:issue:`740` respect `interpreter_python` global configuration variable
+
 
 In progress (unreleased)
 ------------------------
