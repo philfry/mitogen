@@ -21,6 +21,7 @@ To avail of fixes in an unreleased version, please download a ZIP file
 Unreleased
 ----------
 
+* :gh:issue:`740` respect `interpreter_python` global configuration variable
 
 
 v0.3.8 (2024-07-30)
